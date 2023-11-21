@@ -7,7 +7,7 @@ references:
    - None
 ---
 ## Data structure
-
+    
 Payment Gateway 
 
 ## Backend stack
